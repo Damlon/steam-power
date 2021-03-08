@@ -1,13 +1,13 @@
 # steam-power
-Mindustry mod that has realistic power generation
+민더스트리 모드에
 
 younggam/multi-lib
 ------------------
-this mod has dependency on younggam/multi-lib. So you need to install it.
+『스팀파워』라는 모드가 있었다
 
 official release
 ----------------
-currently 1.0
+그 모드는 지금 긴 잠에 빠졌다
 
 screenshots
 -----------
