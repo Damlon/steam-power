@@ -1,14 +1,13 @@
 # steam-power
-Mindustry mod that has realistic power generation.
+민더스트리 모드에
 
 younggam/multi-lib2
 ------------------
-this mod has dependency on younggam/multi-lib2. So you need to import it.
+『스팀 파워』라는 모드가 있었다.
 
 Note
 ----
-This mod will be die because of korean military duty.
-I might give perms to someone.
+그 모드는 지금 긴 잠에 빠졌다
 
 Preview
 -----------
